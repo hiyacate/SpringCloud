@@ -9,8 +9,8 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>eureka</module>
-        <module>gateway</module>
+        <module>hiya_eureka</module>
+        <module>hiya_gateway</module>
         <module>demo</module>
     </modules>
 
