@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>demo</artifactId>
+    <artifactId>hiya_demo</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
@@ -76,7 +76,7 @@
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-assembly-plugin</artifactId>
                 <configuration>
-                    <finalName>demo</finalName>
+                    <finalName>hiya-demo</finalName>
                     <appendAssemblyId>true</appendAssemblyId>
                     <archive>
                         <manifestEntries>

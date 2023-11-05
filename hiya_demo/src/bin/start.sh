@@ -2,8 +2,8 @@
 
 SERVICE_NAME=demo.jar
 SERVICE_PORT=8761
-LOGGING_PATH=/Users/hiya/log/demo
-JVM_LOG_DIR=/Users/hiya/log/demo/jvm
+LOGGING_PATH=/home/hiya/log/hiya_demo
+JVM_LOG_DIR=/home/hiya/log/hiya_demo/jvm
 
 
 set -e

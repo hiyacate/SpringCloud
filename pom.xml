@@ -11,7 +11,7 @@
     <modules>
         <module>hiya_eureka</module>
         <module>hiya_gateway</module>
-        <module>demo</module>
+        <module>hiya_demo</module>
     </modules>
 
     <properties>

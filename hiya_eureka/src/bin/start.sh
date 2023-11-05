@@ -2,8 +2,8 @@
 
 SERVICE_NAME=hiya_eureka.jar
 SERVICE_PORT=8761
-LOGGING_PATH=/Users/hiya/log/hiya_eureka
-JVM_LOG_DIR=/Users/hiya/log/hiya_eureka/jvm
+LOGGING_PATH=/home/hiya/log/hiya_eureka
+JVM_LOG_DIR=/home/hiya/log/hiya_eureka/jvm
 
 
 set -e

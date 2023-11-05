@@ -4,7 +4,7 @@
 
     <properties>
         <property name="LOG_DIR">/Users/hiya/log</property>
-        <property name="APP_FILE">demo</property>
+        <property name="APP_FILE">hiya-demo</property>
     </properties>
 
     <Appenders>
